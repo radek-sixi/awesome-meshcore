@@ -81,6 +81,7 @@ Compatibility references; check these before buying a board.
 | [mesh-sn.de firmware matrix](https://mesh-sn.de/en/devices/matrix) | Per-device matrix of which MeshCore firmware builds are available. |
 | [Mesh America supported hardware](https://wiki.meshamerica.com/books/meshcore/page/supported-hardware-for-meshcore) | Community list of compatible boards and chipsets. |
 | [LocalMesh UK devices](https://localmesh.co.uk/devices/) | Device guides for the UK emergency network. |
+| [Meshware](https://meshware.net) | Filter and select supported MeshCore hardware based on any spec. |
 
 ### DIY Builds
 
